@@ -1,0 +1,4 @@
+com\example\cloudfilesharing\CloudfilesharingApplication.class
+com\example\cloudfilesharing\config\SecurityConfig.class
+com\example\cloudfilesharing\service\S3Service.class
+com\example\cloudfilesharing\controller\FileController.class
